@@ -23,12 +23,6 @@ body {
   font-weight: 700;
   margin-bottom: 8px;
 }
-.column {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
 
 .modal {
   background: white;
